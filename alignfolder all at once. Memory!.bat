@@ -1,0 +1,1 @@
+D:\Hugin\bin\align_image_stack -i -m -s 1 -C -a align_ --gpu *.jpg 
